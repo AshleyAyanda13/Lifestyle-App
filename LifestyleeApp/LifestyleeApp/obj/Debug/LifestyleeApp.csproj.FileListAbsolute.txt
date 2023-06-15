@@ -1,0 +1,15 @@
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\bin\Debug\LifestyleeApp.exe.config
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\bin\Debug\LifestyleeApp.exe
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\bin\Debug\LifestyleeApp.pdb
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.csproj.AssemblyReference.cache
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.Properties.Resources.resources
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.csproj.GenerateResource.cache
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.csproj.CoreCompileInputs.cache
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.exe
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.pdb
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\bin\Debug\MySql.Data.dll
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.Form1.resources
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.Form2.resources
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.csproj.CopyComplete
+C:\Users\Ayanda\source\repos\LifestyleeApp\LifestyleeApp\obj\Debug\LifestyleeApp.Form3.resources
